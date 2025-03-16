@@ -13,7 +13,7 @@ This Movie Ticket Booking System allows users to:
 - Make payments for bookings
 - Cancel bookings and receive refunds (within a time limit)
 
-## System Requirements
+## Features
 
 1. List cities where cinemas are located
 2. Each cinema can have multiple halls, and each hall will run one show at a time
